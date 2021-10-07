@@ -1,0 +1,606 @@
+[
+{
+"id":1,
+"username": "Orpha44",
+ "rank": "diamond",
+ "rank_number": "3",
+ "role": "jungle",
+ "game_type": "ranked",
+ "summoner_name": "Orphana",
+ "status": "1"
+},
+
+{
+"id":2,
+"username": "Nidia17",
+ "rank": "bronze",
+ "rank_number": "1",
+ "role": "support",
+ "game_type": "normal",
+ "summoner_name": "Nvidia",
+ "status": "1"
+},
+
+{
+"id":3,
+"username": "Verenaspiteful",
+ "rank": "platine",
+ "rank_number": "3",
+ "role": "mid lane",
+ "game_type": "normal",
+ "summoner_name": "Verenasz",
+ "status": "1"
+},
+
+{
+"id":4,
+"username": "Lularock",
+ "rank": "master",
+ "rank_number": "3",
+ "role": "mid lane",
+ "game_type": "normal",
+ "summoner_name": "Lulalua",
+ "status": "1"
+},
+
+{
+"id":5,
+"username": "Denisselighten",
+ "rank": "silver",
+ "rank_number": "3",
+ "role": "top lane",
+ "game_type": "ranked",
+ "summoner_name": "Elighten",
+ "status": "1"
+},
+
+{
+"id":6,
+"username": "Shenitatall",
+ "rank": "platine",
+ "rank_number": "3",
+ "role": "ad carry",
+ "game_type": "normal",
+ "summoner_name": "Shen",
+ "status": "1"
+},
+
+{
+"id":7,
+"username": "Marivel63",
+ "rank": "gold",
+ "rank_number": "1",
+ "role": "mid lane",
+ "game_type": "ranked",
+ "summoner_name": "Mariv",
+ "status": "1"
+},
+
+{
+"id":8,
+"username": "Gwyn3",
+ "rank": "diamond",
+ "rank_number": "1",
+ "role": "support",
+ "game_type": "normal",
+ "summoner_name": "Gwynee",
+ "status": "1"
+},
+
+{
+"id":9,
+"username": "Saturninahandsome",
+ "rank": "master",
+ "rank_number": "1",
+ "role": "jungle",
+ "game_type": "ranked",
+ "summoner_name": "Saturnina",
+ "status": "1"
+},
+
+{
+"id":10,
+"username": "Gertudesuggest",
+ "rank": "diamond",
+ "rank_number": "3",
+ "role": "support",
+ "game_type": "ranked",
+ "summoner_name": "Gertude16",
+ "status": "1"
+},
+
+{
+"id":11,
+"username": "Raelenehammer",
+ "rank": "silver",
+ "rank_number": "5",
+ "role": "support",
+ "game_type": "normal",
+ "summoner_name": "Rael",
+ "status": "1"
+},
+
+{
+"id":12,
+"username": "Issacuseful",
+ "rank": "bronze",
+ "rank_number": "4",
+ "role": "jungle",
+ "game_type": "ranked",
+ "summoner_name": "Issac89",
+ "status": "1"
+},
+
+{
+"id":13,
+"username": "Casiesuperficial",
+ "rank": "platine",
+ "rank_number": "5",
+ "role": "jungle",
+ "game_type": "ranked",
+ "summoner_name": "Casiesu",
+ "status": "1"
+},
+
+{
+"id":14,
+"username": "Almeda68",
+ "rank": "bronze",
+ "rank_number": "2",
+ "role": "support",
+ "game_type": "normal",
+ "summoner_name": "Almed",
+ "status": "1"
+},
+
+{
+"id":15,
+"username": "Gloria49",
+ "rank": "gold",
+ "rank_number": "5",
+ "role": "mid lane",
+ "game_type": "ranked",
+ "summoner_name": "Glo",
+ "status": "1"
+},
+
+{
+"id":16,
+"username": "Joaquin29",
+ "rank": "silver",
+ "rank_number": "1",
+ "role": "ad carry",
+ "game_type": "normal",
+ "summoner_name": "Joaq",
+ "status": "1"
+},
+
+{
+"id":17,
+"username": "Salvatore58",
+ "rank": "silver",
+ "rank_number": "4",
+ "role": "top lane",
+ "game_type": "normal",
+ "summoner_name": "Salvatare",
+ "status": "1"
+},
+
+{
+"id":18,
+"username": "Sigrid71",
+ "rank": "bronze",
+ "rank_number": "5",
+ "role": "top lane",
+ "game_type": "ranked",
+ "summoner_name": "Sigrid71",
+ "status": "1"
+},
+
+{
+"id":19,
+"username": "Alyssa57",
+ "rank": "bronze",
+ "rank_number": "3",
+ "role": "jungle",
+ "game_type": "ranked",
+ "summoner_name": "Alyssa57",
+ "status": "1"
+},
+
+{
+"id":20,
+"username": "Kieshachin",
+ "rank": "master",
+ "rank_number": "5",
+ "role": "ad carry",
+ "game_type": "normal",
+ "summoner_name": "Kieshachin",
+ "status": "1"
+},
+
+{
+"id":21,
+"username": "Lizzie99",
+ "rank": "master",
+ "rank_number": "2",
+ "role": "mid lane",
+ "game_type": "ranked",
+ "summoner_name": "Lizzie99",
+ "status": "1"
+},
+
+{
+"id":22,
+"username": "Aileen0",
+ "rank": "platine",
+ "rank_number": "4",
+ "role": "support",
+ "game_type": "ranked",
+ "summoner_name": "Aileen0",
+ "status": "1"
+},
+
+{
+"id":23,
+"username": "Violeta77",
+ "rank": "platine",
+ "rank_number": "1",
+ "role": "mid lane",
+ "game_type": "ranked",
+ "summoner_name": "Violeta77",
+ "status": "1"
+},
+
+{
+"id":24,
+"username": "Aliatested",
+ "rank": "silver",
+ "rank_number": "2",
+ "role": "support",
+ "game_type": "normal",
+ "summoner_name": "Aliatested",
+ "status": "1"
+},
+
+{
+"id":25,
+"username": "Davefresh",
+ "rank": "bronze",
+ "rank_number": "2",
+ "role": "top lane",
+ "game_type": "ranked",
+ "summoner_name": "Davinou",
+ "status": "1"
+},
+
+{
+"id":26,
+"username": "Glendora94",
+ "rank": "silver",
+ "rank_number": "4",
+ "role": "ad carry",
+ "game_type": "ranked",
+ "summoner_name": "Glendo",
+ "status": "1"
+},
+
+{
+"id":27,
+"username": "Tabethauneven",
+ "rank": "master",
+ "rank_number": "1",
+ "role": "top lane",
+ "game_type": "ranked",
+ "summoner_name": "Thauneven",
+ "status": "1"
+},
+
+{
+"id":28,
+"username": "Nannette87",
+ "rank": "platine",
+ "rank_number": "3",
+ "role": "top lane",
+ "game_type": "ranked",
+ "summoner_name": "Nannette87",
+ "status": "1"
+},
+
+{
+"id":29,
+"username": "Milagrosgray",
+ "rank": "gold",
+ "rank_number": "1",
+ "role": "top lane",
+ "game_type": "normal",
+ "summoner_name": "Milagrosgray",
+ "status": "1"
+},
+
+{
+"id":30,
+"username": "Marthaform",
+ "rank": "platine",
+ "rank_number": "2",
+ "role": "top lane",
+ "game_type": "normal",
+ "summoner_name": "Marthaform",
+ "status": "1"
+},
+
+{
+"id":31,
+"username": "Celinda97",
+ "rank": "bronze",
+ "rank_number": "4",
+ "role": "support",
+ "game_type": "ranked",
+ "summoner_name": "Celinda97",
+ "status": "1"
+},
+
+{
+"id":32,
+"username": "Zena34",
+ "rank": "silver",
+ "rank_number": "5",
+ "role": "ad carry",
+ "game_type": "normal",
+ "summoner_name": "Zena34",
+ "status": "1"
+},
+
+{
+"id":33,
+"username": "Latrina4",
+ "rank": "gold",
+ "rank_number": "3",
+ "role": "mid lane",
+ "game_type": "normal",
+ "summoner_name": "Latrina4",
+ "status": "1"
+},
+
+{
+"id":34,
+"username": "Genna19",
+ "rank": "silver",
+ "rank_number": "2",
+ "role": "jungle",
+ "game_type": "ranked",
+ "summoner_name": "Genna19",
+ "status": "1"
+},
+
+{
+"id":35,
+"username": "Pricillanext",
+ "rank": "gold",
+ "rank_number": "4",
+ "role": "jungle",
+ "game_type": "normal",
+ "summoner_name": "Pricillanext",
+ "status": "1"
+},
+
+{
+"id":36,
+"username": "Kelsi40",
+ "rank": "platine",
+ "rank_number": "2",
+ "role": "mid lane",
+ "game_type": "ranked",
+ "summoner_name": "Kelsi40",
+ "status": "1"
+},
+
+{
+"id":37,
+"username": "Chantelletown",
+ "rank": "silver",
+ "rank_number": "4",
+ "role": "ad carry",
+ "game_type": "normal",
+ "summoner_name": "Chantelletown",
+ "status": "1"
+},
+
+{
+"id":38,
+"username": "Azziedrown",
+ "rank": "bronze",
+ "rank_number": "3",
+ "role": "jungle",
+ "game_type": "normal",
+ "summoner_name": "Azziedrown",
+ "status": "1"
+},
+
+{
+"id":39,
+"username": "Deliciaguttural",
+ "rank": "silver",
+ "rank_number": "4",
+ "role": "mid lane",
+ "game_type": "normal",
+ "summoner_name": "Deliciaguttural",
+ "status": "1"
+},
+
+{
+"id":40,
+"username": "Arnettefurniture",
+ "rank": "gold",
+ "rank_number": "4",
+ "role": "support",
+ "game_type": "normal",
+ "summoner_name": "Arnettefurniture",
+ "status": "1"
+},
+
+{
+"id":41,
+"username": "Jamison21",
+ "rank": "bronze",
+ "rank_number": "5",
+ "role": "ad carry",
+ "game_type": "normal",
+ "summoner_name": "Jamison21",
+ "status": "1"
+},
+
+{
+"id":42,
+"username": "Arianne66",
+ "rank": "master",
+ "rank_number": "5",
+ "role": "mid lane",
+ "game_type": "normal",
+ "summoner_name": "Arianne66",
+ "status": "1"
+},
+
+{
+"id":43,
+"username": "Reta23",
+ "rank": "silver",
+ "rank_number": "1",
+ "role": "jungle",
+ "game_type": "ranked",
+ "summoner_name": "Reta23",
+ "status": "1"
+},
+
+{
+"id":44,
+"username": "aliceWonder",
+ "rank": "diamond",
+ "rank_number": "2",
+ "role": "ad carry",
+ "game_type": "ranked",
+ "summoner_name": "aliceWonder",
+ "status": "1"
+},
+
+{
+"id":45,
+"username": "Janenewhite",
+ "rank": "diamond",
+ "rank_number": "5",
+ "role": "ad carry",
+ "game_type": "ranked",
+ "summoner_name": "Janenewhite",
+ "status": "1"
+},
+
+{
+"id":46,
+"username": "Bobbieswim",
+ "rank": "gold",
+ "rank_number": "2",
+ "role": "jungle",
+ "game_type": "normal",
+ "summoner_name": "Bobbieswim",
+ "status": "1"
+},
+
+{
+"id":47,
+"username": "tommyCat",
+ "rank": "gold",
+ "rank_number": "4",
+ "role": "ad carry",
+ "game_type": "ranked",
+ "summoner_name": "tomtom79",
+ "status": "1"
+},
+
+{
+"id":48,
+"username": "Mandaexchange",
+ "rank": "bronze",
+ "rank_number": "2",
+ "role": "support",
+ "game_type": "ranked",
+ "summoner_name": "Mandaaa",
+ "status": "1"
+},
+
+{
+"id":49,
+"username": "Hui31",
+ "rank": "gold",
+ "rank_number": "5",
+ "role": "ad carry",
+ "game_type": "ranked",
+ "summoner_name": "Hui31",
+ "status": "1"
+},
+
+{
+"id":50,
+"username": "Tamera39",
+ "rank": "bronze",
+ "rank_number": "3",
+ "role": "mid lane",
+ "game_type": "ranked",
+ "summoner_name": "TamTam",
+ "status": "1"
+},
+
+{
+"id":51,
+"username": "Sunny",
+ "rank": "diamond",
+ "rank_number": "4",
+ "role": "jungle",
+ "game_type": "normal",
+ "summoner_name": "sundduddu",
+ "status": "1"
+},
+
+{
+"id":52,
+"username": "thomaslol",
+ "rank": "diamond",
+ "rank_number": "2",
+ "role": "top lane",
+ "game_type": "normal",
+ "summoner_name": "thomasJ",
+ "status": "1"
+},
+
+{
+"id":53,
+"username": "Sanfordnation",
+ "rank": "bronze",
+ "rank_number": "1",
+ "role": "top lane",
+ "game_type": "normal",
+ "summoner_name": "Sanfordnation",
+ "status": "1"
+},
+
+{
+"id":54,
+"username": "Donyatrust",
+ "rank": "silver",
+ "rank_number": "1",
+ "role": "top lane",
+ "game_type": "normal",
+ "summoner_name": "Donyatrust",
+ "status": "1"
+},
+
+{
+"id":55,
+"username": "alex123",
+ "rank": "platine",
+ "rank_number": "5",
+ "role": "support",
+ "game_type": "ranked",
+ "summoner_name": "alexxx",
+ "status": "1"
+}
+]
